@@ -2,7 +2,7 @@
 
 Adding coin sorting to your game has never been so simple
 
-Start by downloading coin sorting [here]({{https://krishpotel.github.io/CoinSorting/}}{% link file.txt %})
+Start by downloading coin sorting [here](https://krishpotel.github.io/CoinSorting/)
 
 ## Example
 ```
