@@ -1,6 +1,7 @@
 # Coin Sorting Module
 
-Adding coin sorting to your game has never been so simple this module comes with the code and images embed in the file to start your coin sorting journey
+Adding coin sorting to your game has never been so simple 
+This module comes with the code and images embed in the file to start your coin sorting journey
 
 Start by downloading coin sorting [here](https://drive.google.com/file/d/1i1oePHFZurYacsW3JqAzQCZp4D-YaUgE/view?usp=sharing)
 
