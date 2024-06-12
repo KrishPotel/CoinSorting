@@ -20,7 +20,7 @@ CoinSort.run(mx,my,mb,evt) #Draws the coinsorter over screen
 ```
 
 ### Warning
-You will need to program a exit button for your coin example is below
+You will need to program a exit button for your coin sorter example is below
 
 
 ## Example coinsorter with exit button
